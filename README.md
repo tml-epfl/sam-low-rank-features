@@ -4,7 +4,7 @@
 
 **arXiv, May 2023**
 
-**Paper:** [https://arxiv.org/abs/tbd](https://arxiv.org/abs/tbd)
+**Paper:** [https://arxiv.org/abs/2305.16292](https://arxiv.org/abs/2305.16292)
 
 <p align="center"><img src="sam_low_rank_mscoco.png" width="900" /></p>
 
