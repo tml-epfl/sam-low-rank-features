@@ -2,7 +2,7 @@
 
 **Maksym Andriushchenko (EPFL), Dara Bahri (Google Research), Hossein Mobahi (Google Research), Nicolas Flammarion (EPFL)**
 
-**arXiv, May 2023**
+**NeurIPS 2023**
 
 **Paper:** [https://arxiv.org/abs/2305.16292](https://arxiv.org/abs/2305.16292)
 
